@@ -1,0 +1,20 @@
+* {
+
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+    display: flex;
+    width: 100dvw;
+    height: 100dvh;
+    justify-content: center;
+    vertical-align: middle;
+
+}
+.box{
+    align-self: center;
+    /* background-color: blanchedalmond; */
+    height: 794px;
+    width: 600px;
+}
